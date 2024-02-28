@@ -7,3 +7,6 @@ The test is going well so far
 - blue
 ## Test results
 Poor results. Very poor.
+## A beautiful photo
+Here is a beautiful photo of an octocat.
+![octocat](https://octodex.github.com/images/yaktocat.png)

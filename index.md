@@ -15,3 +15,7 @@ Sometimes it's necessary to include a code block
 ```
 library(tidyverse)
 ```
+## A task list
+- [x] Added headers
+- [x] Added image
+- [ ] Whats next? 
